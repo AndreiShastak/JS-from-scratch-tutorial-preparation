@@ -14,13 +14,17 @@
 // }
 // logInfoAbout(lastName,year);
 
-const cars =['Dacia','Mazda','Ford']
+// const cars =['Dacia','Mazda','Ford']
+//
+//
+// for(let car of cars){
+//     console.log(car)
+// }
 
-for(let i=0;i<cars.length;i++){
-    const car=cars[i]
-    console.log(car)
-}
-
-for(let car of cars){
-    console.log(car)
+const person={
+    firstName:'Anton',
+    lastName: 'Shastak',
+    dateOfBirth: 1990,
+    languages:['Ru','Eng','De','Pl'],
+    hasWife:true,
 }
