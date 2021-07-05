@@ -15,11 +15,11 @@ Method
 cars.push('Рено')
 cars.unshift('Волга')
 
-const firstCar = cars.shift()
-const lastCar = cars.pop()
-console.log(firstCar)
-console.log(lastCar)
-console.log(cars)
+// const firstCar = cars.shift()
+// const lastCar = cars.pop()
+// console.log(firstCar)
+// console.log(lastCar)
+// console.log(cars)
 
 // console.log(cars.reverse())
 // console.log(cars)
